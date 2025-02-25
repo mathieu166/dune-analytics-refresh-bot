@@ -4,6 +4,7 @@ __pycache__/
 
 *.so
 
+.vscode/
 .Python
 build/
 develop-eggs/
@@ -81,4 +82,4 @@ dmypy.json
 
 cython_debug/
 
-.downloaded_files
+downloaded_files/
